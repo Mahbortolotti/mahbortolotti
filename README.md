@@ -1,4 +1,4 @@
-### culpa do capitalismo
+### Culpa do capitalismo☭
 
 <!--
 **Mahbortolotti/mahbortolotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
