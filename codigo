@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pr-br">
+ <head>
+  <meta charset="UTF-8">
+  <title>Diário Ghibli🌱</title>
+  <link rel="stylesheet" href="style.css">
+ </head>
+ <body>
+   <header>
+   <h1>Diário Ghibli🌱</h1>
+   </header>
+  <div>
+   <h2>Sobre o Diário Ghibli🌱</h2>
+
+   <p>Feito com muito carinho por um fã dos filmes do <strong>Studio Ghibli</strong>.</p>
+
+   <p id="gay"><em><strong>Filmes com cheirinho de infância e traço simples.</strong></em></p>
+  </div>
+
+  <div class="filmes">
+   <h3>🎬Filmes</h3>
+
+  <ul>
+   <li>Nausicaä do Vale do Vento (1984)</li>
+   <li>O Castelo no Céu (1986)</li>
+   <li>Meu Amigo Totoro (1988)</li>
+   <li>Túmulo dos Vagalumes (1988)</li>
+   <li>O Serviço de Entregas da Kiki (1989)</li>
+   <li>Memórias de Ontem (1991)</li>
+   <li>Porco Rosso: O Último Herói Romântico (1992)</li>
+   <li>Eu Posso Ouvir o Oceano (1993)</li>
+   <li>Pom Poko – A Grande Batalha dos Guaxinins (1994)</li>
+   <li>Sussurros do Coração (1995)</li>
+   <li>Princesa Mononoke (1997)</li>
+   <li>Meus Vizinhos, os Yamadas (1999)</li>
+   <li>A Viagem de Chihiro (2001)</li>
+   <li>O Reino dos Gatos (2002)</li>
+   <li>O Castelo Animado (2004)</li>
+   <li>Contos de Terramar (2006)</li>
+   <li>Ponyo – Uma Amizade que Veio do Mar (2008)</li>
+   <li>O Mundo dos Pequeninos (2010)</li>
+   <li>Da Colina Kokuriko (2011)</li>
+   <li>Vidas ao Vento (2013)</li>
+   <li>O Conto da Princesa Kaguya (2013)</li>
+   <li>As Memórias de Marnie (2014)</li>
+   <li>Aya e a Bruxa (2020)</li>
+  </ul>
+  </div>
+ </body>
+</html>
