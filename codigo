@@ -66,3 +66,7 @@ p {
 .tecnicos {
   background: #5F9F9F
  }
+
+CODIGO IMAGEM
+
+<img scr="./img/papapa.papa"/>
