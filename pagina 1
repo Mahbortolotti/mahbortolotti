@@ -11,6 +11,15 @@ INDEX:
    <header>
    <h1>Diário Ghibli🌱</h1>
    </header>
+       <div>
+        <nav>    
+            <ul>
+                <li><a href="index.html"> geral</a></li>
+                 <li><a href="pagina2.html">filmes</a></li>
+                 <li><a href="pagina3.html">contato</a></li>
+                 </ul>
+        </nav>
+     </div>
   <div>
    <h2>Sobre o Diário Ghibli🌱</h2>
 
