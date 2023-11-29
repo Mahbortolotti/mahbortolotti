@@ -75,3 +75,9 @@ p {
  #textin{
   font-size: 25px
  }
+nav li {
+  display: inline;
+}
+nav a {
+  text-transform: uppercase;
+}
