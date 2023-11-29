@@ -1,0 +1,77 @@
+INDEX:
+
+<!DOCTYPE html>
+<html lang="pr-br">
+ <head>
+  <meta charset="UTF-8">
+  <title>Diário Ghibli🌱</title>
+  <link rel="stylesheet" href="style.css">
+ </head>
+ <body>
+   <header>
+   <h1>Diário Ghibli🌱</h1>
+   </header>
+  <div>
+   <h2>Sobre o Diário Ghibli🌱</h2>
+
+   <p id="subtitulo">Feito com muito carinho por um fã dos filmes do <strong>Studio Ghibli</strong>.</p>
+
+   <p id="gay"><em><strong>Filmes com cheirinho de infância.</strong></em></p>
+  </div>
+  <div class="texto">
+   <p id="textin">O Studio Ghibli foi fundado em 1985 por Hayao Miyazaki, Isao Takahata, Toshio Suzuki e Yasuyoshi Tokuma, logo após o sucesso de Nausicaä do Vale do Vento, no ano anterior. O estúdio lançou seu primeiro filme, O Castelo no Céu, no ano seguinte. O logotipo da empresa é o Totoro, o personagem do filme Meu Amigo Totoro, lançado em 1988. Com exceção de seis produções, todos os filmes do estúdio foram dirigidos por Hayao Miyazaki e Isao Takahata. Toshio Suzuki, por sua vez, é o produtor da maioria deles. Em 2001, o Museu Ghibli, um museu dedicado as obras do estúdio, foi inaugurado.</p>
+  </div>
+  <div class="tecnicos">
+   <h3>Dados Técnicos</h3>
+    <p><strong>🌱Studio Ghibli, Inc.</strong></p>
+    <p><strong>abushiki gaisha Sutajio Jiburi</strong></p>
+    <p><strong>Japão</strong></p>
+    <p><strong>Desde 1985</strong></p>
+   <ul>
+    <li>Atividade: Animação</li>
+    <li>Indústria: Cinema</li>
+    <li> Fundação: 15 de junho de 1985
+    <li> Fundadores: Isao Takahata, Hayao Miyazaki, Toshio Suzuki, Yasuyoshi Tokuma.</li>
+    <li> Sede: Koganei, Tóquio, Japão.</li>
+    <li> Produtos; Filmes de animação; Curtas de animação; Séries de animação; Comerciais para TV.</li>
+    <li> Presidente: Kiyofumi Nakajima</li>
+    <li> Vice-presidente: Koji Hoshino</li>
+    <li> Empresa-mãe: Tokuma Shoten (1985–2005)</li>
+    <li> Antecessora: Topcraft</li>
+    <li> Site oficial: ghibli.jp</li>
+   </ul>
+  </div>
+ </body>
+</html>
+
+STYLE:
+
+body {
+  background: #088A85
+}
+h1 {
+  font-size: 20px; color: #003319; 
+  padding-left: 15px
+}
+h2 {
+  text-align: center; font-size: 30px
+}
+#subtitulo{
+  font-size: 18px;
+}
+h3 {
+	text-align: center; font-size: 30px;
+}
+#gay{
+  font-size: 18px
+}
+p {
+  text-align: center;
+  font-size: 15px;
+}
+.tecnicos {
+  background: #04B4AE
+ }
+ #textin{
+  font-size: 25px
+ }
