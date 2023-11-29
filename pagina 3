@@ -1,0 +1,92 @@
+PAGINA3.HTML
+
+<!DOCTYPE html>
+<html lang="pr-br">
+ <head>
+  <meta charset="UTF-8">
+  <title>Diário Ghibli🌱- contato</title>
+  <link rel="stylesheet" href="style3.css">
+ </head>
+ <body>
+     <header>
+        <h1>Diário Ghibli🌱</h1>
+    </header>
+    <div class="caixa">
+        <nav>    
+          <ul>
+            <li><a href="index.html"> geral</a></li>
+            <li><a href="pagina2.html">filmes</a></li>
+            <li><a href="pagina3.html">contato</a></li>
+          </ul>
+        </nav>
+    </div>
+    <div>
+   <h2>contato e informações🌱</h2>
+  </div>
+  <div id="contatos">
+   <h3>☎️contatos</h3>
+   <ul>
+      <p>❁criadora do site</p>
+      <li><a href="https://mahbortolotticard.carrd.co/">mahbortolotti.card</a></li>
+      <li>maria.francisca.correa@escola.pr.gov.br</li> 
+      <p>❁sites</p>
+      <li><a href="https://www.ghibli.jp/"> studio ghibli oficial</a></li>
+      <li><a href="https://studioghibli.com.br/studioghibli/"> referencia</a></li> 
+   </ul>
+   <img id="banner"src="./img/totoro7.png"/>
+   </div>
+   <p id="final"><strong>Esse site foi feito para um trabalho escolar</strong>, se você interessou-se no conteúdo apresentado no site, vá a categoria <strong>❁sites</strong>, nos dois links terá informações mais precisas.</p>
+   <h4>Muito obrigada pela atenção<3</h4>
+</body>
+</html>
+
+STYLE3.CSS
+
+body {
+  background: #088A85
+}
+h1 {
+  font-size: 20px; color: #003319; 
+  padding-left: 15px
+}
+h2 {
+  text-align: center; font-size: 30px
+}
+.caixa{
+  position: relative;
+  width: 1300px;
+  margin: 0 auto;
+ }
+nav{
+  position: absolute;
+  top: 100;
+  right: 0;
+}
+nav li {
+  display: inline;
+}
+nav a {
+  text-transform: uppercase;
+}
+ul {
+  display: inline-block;
+  vertical-align: top;
+  width: 45%;
+  margin: right: 40%;
+}
+#banner {
+  vertical-align: top;
+  width: 46%;
+}
+#contatos {
+  font-size: 30px;
+  background: #04B4AE;
+}
+#final {
+  text-align: center;
+  font-size: 20px;
+}
+h4 {
+  text-align: center;
+  font-size: 30px;
+}
