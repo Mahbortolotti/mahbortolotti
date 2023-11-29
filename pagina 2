@@ -1,0 +1,93 @@
+PAGINA2.HTML
+
+<!DOCTYPE html>
+<html lang="pr-br">
+ <head>
+  <meta charset="UTF-8">
+  <title>Diário Ghibli🌱- filmes</title>
+  <link rel="stylesheet" href="style2.css">
+ </head>
+ <body>
+     <header>
+        <h1>Diário Ghibli🌱</h1>
+    </header>
+    <div class="caixa">
+        <nav>    
+         <ul>
+            <li><a href="index.html"> geral</a></li>
+            <li><a href="pagina2.html">filmes</a></li>
+            <li><a href="pagina3.html">contato</a></li>
+         </ul>
+        </nav>
+     </div>
+  <div class="filmes">
+   <h3>🎬Filmes</h3>
+
+    <ul>
+         <li>Nausicaä do Vale do Vento (1984)</li>
+         <li>O Castelo no Céu (1986)</li>
+         <li>Meu Amigo Totoro (1988)</li>
+         <li>Túmulo dos Vagalumes (1988)</li>
+         <li>O Serviço de Entregas da Kiki (1989)</li>
+         <li>Memórias de Ontem (1991)</li>
+         <li>Porco Rosso: O Último Herói Romântico (1992)</li>
+         <li>Eu Posso Ouvir o Oceano (1993)</li>
+         <li>Pom Poko – A Grande Batalha dos Guaxinins (1994)</li>
+         <li>Sussurros do Coração (1995)</li>
+         <li>Princesa Mononoke (1997)</li>
+         <li>Meus Vizinhos, os Yamadas (1999)</li>
+         <li>A Viagem de Chihiro (2001)</li>
+         <li>O Reino dos Gatos (2002)</li>
+         <li>O Castelo Animado (2004)</li>
+         <li>Contos de Terramar (2006)</li>
+         <li>Ponyo – Uma Amizade que Veio do Mar (2008)</li>
+         <li>O Mundo dos Pequeninos (2010)</li>
+         <li>Da Colina Kokuriko (2011)</li>
+         <li>Vidas ao Vento (2013)</li>
+         <li>O Conto da Princesa Kaguya (2013)</li>
+         <li>As Memórias de Marnie (2014)</li>
+         <li>Aya e a Bruxa (2020)</li>
+    </ul>
+    <img id="banner"src="./img/totoro5.png"/>
+  </div>
+ </body>
+</html>
+
+STYLE2.CSS
+
+body {
+  background: #088A85
+}
+h1 {
+  font-size: 20px; color: #003319; 
+  padding-left: 15px
+}
+.filmes {
+  font-size: 20px;
+  background: #04B4AE;
+}
+.caixa{
+  position: relative;
+  width: 1300px;
+  margin: 0 auto;
+ }
+nav{
+  position: absolute;
+  top: 100;
+  right: 0;
+}
+nav li {
+  display: inline;
+}
+nav a {
+  text-transform: uppercase;
+}
+ul {
+  display: inline-block;
+  vertical-align: top;
+  width: 47%;
+  margin: right: 50%;
+}
+#banner {
+  width: 50%;
+}
